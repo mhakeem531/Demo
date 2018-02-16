@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg_gradien"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="com.example.hakeem.demo.SettingFragment"
+    android:id="@+id/app_settings_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+</LinearLayout>
